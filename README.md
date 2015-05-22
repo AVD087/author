@@ -1,2 +1,2 @@
 # djangobasic
-Learn Django
+Started Learning Django.
