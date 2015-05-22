@@ -1,0 +1,2 @@
+# djangobasic
+Learn Django
